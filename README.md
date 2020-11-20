@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Flutter and make publish an app on the play store
+- 🥅 2021 Goals: Learn React Native and make publish an app on the play store
 - ⚡ Fun fact: I love to draw
 
 ### Spotify Playing 🎧
