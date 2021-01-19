@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Developer!!
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn React Native and make publish an app on the play store
 - ⚡ Fun fact: I don't like these standard profile README templates that literally everyone uses. I'm thinking of a really good one right now
