@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iammaulik&label=Profile%20views&color=0e75b6&style=flat" alt="iammaulik" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammaulik&theme=onedark" alt="iammaulik" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iammaulik&theme=onedark" alt="iammaulik" /> </p>
 
 - 🔭 I’m currently working on [Mage Chess](https://github.com/IAmMaulik/mage-chess)
 
