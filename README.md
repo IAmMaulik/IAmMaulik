@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mage Chess](https://github.com/IAmMaulik/mage-chess)
 
-- 🌱 I’m currently learning **C# with Unity**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **various open-source projects**
 
