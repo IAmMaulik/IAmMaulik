@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammaulik&show_icons=true&locale=en&theme=radical" alt="iammaulik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammaulik&theme=dark" alt="iammaulik" /></p>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=zues&font=Redressed)
