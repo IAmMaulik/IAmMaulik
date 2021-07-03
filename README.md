@@ -27,4 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammaulik&theme=dark" alt="iammaulik" /></p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=zues&font=Redressed)
+<h3 align="center">Random Programming Quote for You:</h3>
+<p align="center">Refresh the page for a new quote!</p>
+
+![Quote Loading...](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=zues&font=Redressed)
